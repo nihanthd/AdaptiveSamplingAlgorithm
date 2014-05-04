@@ -1,0 +1,10 @@
+Language : Java 1.7
+Tool : Eclipse
+File for Execution : SamplingAlgorithm.java
+Package : com.algorithm
+
+evidence file would be taken as appended for this filename with .evid 
+
+VM arguments : -Xms512m -Xmx1024m
+
+program arguments are : <InputFile> <OutputFile> <Original evidence> <Original Time taken>
